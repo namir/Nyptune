@@ -1,1 +1,1 @@
-TODO
+Alternative multimedia platform for creators.
